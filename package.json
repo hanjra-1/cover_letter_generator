@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "openai": "^4.81.0",
+    "python": "^0.0.4"
+  }
+}
